@@ -1,0 +1,13 @@
+h1 {
+	color: black;
+	font-size: 50px;
+}
+
+body {
+	font-size: 20px;
+	background-image: url("bg.jpg");
+}
+
+title {
+	font-size: 80px;
+}
